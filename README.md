@@ -25,3 +25,4 @@
 - [Counting sort](https://en.wikipedia.org/wiki/Counting_sort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Heap Sort](https://en.wikipedia.org/wiki/Heapsort)
+- [Radix Sort](https://en.wikipedia.org/wiki/Radix_sort)
